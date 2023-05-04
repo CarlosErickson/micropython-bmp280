@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["bmp280.py", "github:CarlosErickson/micropython-bmp280/bmp280.py"],
+  ],
+  "deps": [
+    ["dafvid-bmp280", "latest"]
+  ],
+  "version": "0.1"
+}
